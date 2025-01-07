@@ -1,0 +1,4 @@
+Prompt:
+
+[INDUSTRY]=description of the industry~ Research the current state of the [INDUSTRY]. Provide a summary highlighting key characteristics, major players, and recent changes.~ Identify and list 5-7 emerging trends in the [INDUSTRY].~ For each trend, provide a brief description and explanation of why it is emerging (e.g., changes in technology, customer preferences, regulatory environment).~ Evaluate the potential implications of these trends on the [INDUSTRY]. Consider impacts on competition, product/service offerings, customer behavior, and industry growth or decline.~ Summarize your findings in a final report.
+Make sure you update the variable in the first prompt: INDUSTRY

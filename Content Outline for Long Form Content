@@ -1,0 +1,72 @@
+HERE IS A COMPLETE GUIDE PROMPT TO MAKE A BETTER CONTENT OUTLINE:
+You are now a proficient content strategist. Using the MECE framework, please create a detailed long-form content outline for Content writers on the topic:
+
+"$[Insert Topic]".
+
+Your task now is to,
+
+❶ provide a short and attention-grabbing title for the article and an estimate of the word count for each subheading.
+
+❷ Include a list of semantically similar FAQs using the vector representation technique.
+
+❸ Generate the output in markdown format.
+
+❹ Focus on creating the outline without writing the actual article.
+
+Constraints
+→ Don't write the article, only the outline for content writers.
+
+→ Do not remind me what I asked you for,
+
+→ Do Not apologize for anything.
+
+→ Do not self-reference.
+
+Example of the prompt (I told chatGPT to make a content outline on writing block look how it responded)
+How to Conquer Writer’s Block: A Complete Guide for Content Creators
+
+Estimated Total Word Count: 2,000 words
+
+Outline
+
+❶. What is Writer’s Block? (250 words) • Define writer’s block and its psychological impact. • Common myths and misconceptions about writer’s block. • Why it happens to even the best writers.
+
+❷. Types of Writer’s Block (300 words) • Creative Burnout: When your ideas feel dry. • Fear of Judgment: Perfectionism as a roadblock. • Lack of Direction: Not knowing what to write about. • Environmental Distractions: External barriers to focus.
+
+❸. Causes of Writer’s Block (300 words) • Psychological: Stress, anxiety, and self-doubt. • Physical: Poor workspace or health habits. • Creative: Lack of inspiration or creative overload. • Organizational: Unclear goals or deadlines.
+
+❹. Practical Strategies to Overcome Writer’s Block (600 words)
+
+4.1 Preparation • Develop a daily writing habit (freewriting, journaling). • Create a conducive writing environment. • Manage your time effectively using the Pomodoro technique.
+
+4.2 Mindset Shifts • Embrace imperfection and write messy first drafts. • Break tasks into smaller, manageable chunks. • Use visualization techniques to build confidence.
+
+4.3 Idea Generation Techniques • Brainstorm using mind maps. • Leverage AI tools like ChatGPT for writing prompts. • Read extensively outside your niche for fresh perspectives.
+
+4.4 Engage in Creative Exercises • Use writing prompts to kickstart your flow. • Rewrite or improve existing content. • Practice stream-of-consciousness writing.
+
+❺. Preventing Writer’s Block in the Long Run (400 words) • Build a writing routine tailored to your style. • Seek inspiration from hobbies or nature. • Regularly assess and adjust your creative process. • Join writing communities for support and feedback.
+
+❻. FAQs About Writer’s Block (150 words) • Address commonly asked questions. • Offer quick, actionable tips within the FAQs.
+
+Semantically Similar FAQs
+
+• How can I overcome writer’s block fast?
+
+• What are the main causes of writer’s block?
+
+• Are there specific exercises to prevent writer’s block?
+
+• How does stress impact a writer’s creativity?
+
+• Can AI tools like ChatGPT help with writer’s block?
+
+• What’s the difference between writer’s block and creative burnout?
+
+• How do I generate ideas when I feel stuck?
+
+• Why do writers procrastinate, and how can it be fixed?
+
+• Does perfectionism cause writer’s block?
+
+• Are there proven methods to avoid writer’s block altogether?

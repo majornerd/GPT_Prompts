@@ -1,0 +1,49 @@
+🎯 Master Guide: Extracting Info from Resumes Using ChatGPT
+💡 Pro Tips for Fine-Tuning Your Prompts
+1️⃣ Be Specific and Structured
+Extract these key details: - 📊 Work experience (titles, companies, duration, responsibilities) - 🛠️ Technical skills & technologies - 📜 Certifications (name, issuer, date)
+
+Remember: The clearer your request, the better the output!
+
+2️⃣ Use Example Formats
+Show ChatGPT exactly what you want by providing sample structures.
+
+3️⃣ Request Clear Output Structure
+Choose your preferred format: - Bullet lists - JSON format - Custom templates
+
+4️⃣ Iterate & Perfect
+Refine your prompts until you get exactly what you need!
+
+—
+
+🚀 The God-Tier Extraction Prompt
+``` You are an information extraction assistant. I will provide you with a text taken from a resume. Your task is to extract and list the following details clearly and concisely:
+
+Work Experience: For each role, list the job title, company name, start and end dates (if available), and a one-line summary of key responsibilities.
+
+Technologies and Tools: Identify all programming languages, frameworks, tools, and platforms mentioned.
+
+Certifications: List the name of each certification, the issuing organization, and the date if mentioned.
+
+Output the information in the following format:
+
+Work Experience: • Position: [Job Title] Company: [Company Name] Duration: [Start Date - End Date or Present] Key Responsibilities: [Brief Description]
+
+Technologies and Tools: • [Technology 1] • [Technology 2] • [etc.]
+
+Certifications: • Certification Name: [Name of Certification] Issued By: [Issuing Authority] Date: [If available]
+
+If any information is not mentioned, leave that field blank. Do not include any extraneous commentary, just extract the details. ```
+
+🧠 Advanced Techniques
+💪 Chain-of-Thought Prompting
+First, read the following resume and think step-by-step about what information fits each category. Then, provide the final structured answer.
+
+🔄 Iterative Refinement
+Now ensure all job titles and technologies are presented clearly. Group technologies under categories like Programming Languages, Cloud Services, etc., if mentioned. Reformat accordingly.
+
+🎮 Power User Tips
+Combine Methods: Mix different prompting techniques
+Stay Specific: Clear requests = better results
+Format Matters: Choose structures that match your needs
+Refine & Repeat: Keep improving your prompts

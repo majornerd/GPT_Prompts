@@ -1,0 +1,47 @@
+⚡️ The Architect's Lab
+
+Hey builders! crafted a goal breakdown prompt today...
+
+Introducing a three-layer priority prompt that transforms ambitious goals into organised action plans. What makes this special? It combines essential priority with detailed implementation planning at each level.
+
+How to Use:
+In Prompt:
+
+Replace [goal] with your specific objective
+Examples:
+
+"Launch new product line"
+"Develop personal brand"
+"Scale business operations"
+"Learn new tech stack"
+The prompt then breaks down your goal into three clear layers:
+
+Core Objectives (Must-haves) - Your non-negotiables
+Supporting Actions (Should-haves) - Your enhancers
+Enhancement Elements (Nice-to-haves) - Your future optimizations
+Each layer gets detailed with:
+
+Implementation steps
+Clear milestones
+Success metrics
+Review points
+Prompt:
+Break down your [goal] into three priority layers. For each layer, detail implementation steps, milestones, success metrics, and review points. Use the criteria below to assign each item:
+
+1. **Core Objectives (Must-haves)**
+  * Criteria: Essential for achieving the goal's baseline success (e.g., critical features, mandatory deadlines, key resource needs).
+  * Implementation Steps: Provide a clear, step-by-step roadmap for these essentials.
+  * Milestones & Metrics: Identify measurable targets (e.g., 'Launch MVP by Q1') and how you'll assess progress (completion percentage, test results, etc.).
+  * Review Points: Define when and how progress will be evaluated (weekly sprints, monthly reviews).
+
+2. **Supporting Actions (Should-haves)**
+  * Criteria: Valuable enhancements that improve quality, efficiency, or user satisfaction but are not critical for initial success.
+  * Implementation Steps: Outline tasks to integrate these improvements without compromising Core Objectives.
+  * Milestones & Metrics: Set secondary goals (e.g., 'Improve user onboarding flow by 20%') and decide how you'll measure them.
+  * Review Points: Schedule periodic assessments to confirm feasibility and adjust priorities if resources change.
+
+3. **Enhancement Elements (Nice-to-haves)**
+  * Criteria: Future-facing opportunities, innovation aspects, or optional features that can provide long-term value.
+  * Implementation Steps: Describe how you would implement these if time and resources permit.
+  * Milestones & Metrics: Define exploratory metrics (e.g., 'Prototype new feature by Q4') and track potential ROI.
+  * Review Points: Establish when to revisit these ideas, especially if Core or Supporting objectives are ahead of schedule or under budget.

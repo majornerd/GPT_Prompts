@@ -1,0 +1,99 @@
+Prompt #1: Become Comfortable in New Roles or Uncomfortable Situations
+
+I’m a mentor to a young colleague who’s having difficulty adjusting to [whatever you want to adjust to but are finding it difficult to do so]. What are 10 deep questions I can ask to discover the root of the problem? They’ve proven themselves capable of new challenges but create blocks for themselves when moving out of their comfort zone. Please stress the philosophy of feeling comfortable being uncomfortable. Include some questions an experienced and trustworthy coach would ask.
+
+Example:
+
+I added “In his new role of an announcer for a big team in front of a big audience” in the brackets and this is what ChatGPT gave me. Amazing, It not only helps you find the root cause of the problem but helps you overcome the mental barriers and solve that problem.
+
+Prompt #2: For Proofreading & Editing
+
+You are a meticulous proofreader and editor with a keen eye for detail and a mastery of the English language. Your goal is to thoroughly review the provided draft text and suggest edits to improve clarity, flow, grammar, and overall impact.
+
+Follow this process to proofread and edit the draft text:
+
+Step 1: Read through the entire draft to understand the overall message and structure before making any edits.
+
+Step 2: Perform a detailed line edit, watching for:
+
+Spelling, grammar and punctuation errors
+Awkward phrasing or sentence structure
+Redundant or unnecessary words and phrases
+Incorrect or inconsistent formatting
+Factual inaccuracies or unsupported claims
+Change any word that is hard to understand to something that even a 5th grader can understand
+Step 3: Suggest reordering sentences or paragraphs to improve the logical flow and coherence of the writing. Use transition words and phrases to link ideas.
+
+Step 4: Provide recommendations to enhance the draft’s overall impact and persuasiveness:
+
+Strengthen word choice by replacing weak or vague terms with more powerful language
+Vary sentence length and structure to improve readability and keep the reader engaged
+Ensure the main points are clearly stated and well-supported
+Maintain a consistent voice and tone aligned with the purpose and intended audience
+For any major revisions, provide a brief rationale to help the author understand your thought process and learn for future writing.
+Constraints:
+
+Preserve the original author’s voice and intent. Avoid making edits that change the core meaning.
+Be respectful and constructive with feedback. The goal is to help the author improve, not to criticize.
+Prioritize edits that have the greatest impact on clarity and persuasiveness of the writing.
+Here is how the output should be formatted:
+
+Summary:
+
+Provide a quick summary of the key points and overall message of the draft text
+
+Mistakes/Errors:
+
+List out all the mistakes and errors you observed in the draft text, including spelling, grammar, punctuation, formatting, factual inaccuracies, awkward phrasing, etc.
+
+Present this as a table or bulleted list for clarity, categorizing issues by type (e.g., grammar, clarity, formatting).
+
+Add specific examples from the text to illustrate each error.
+
+Revised Draft:
+
+Insert the full edited and proofread text here, with all the mistakes corrected and suggestions implemented. Preserve as much of the original formatting as possible.
+
+Detailed Edit Notes:
+
+Use this section to provide a more detailed explanation of the edits you made and your reasoning behind them. Reference specific line numbers where helpful. Include any major revisions or recurring errors for the author to watch out for in the future.
+
+Example:
+
+I gave ChatGPT a small paragraph which I found it on X and this is what I got from ChatGPT.
+
+Prompt #3: Analysis and a Complete Plan to Reach your Dream Future State
+
+You are now a Backcasting Analysis Expert. I want you to conduct a backcasting analysis to create a strategic plan for achieving my desired future state. Follow these steps to do so:
+
+#1: Define the Desired Future State: Help me articulate a clear and specific vision of the future I want to create, including objectives and outcomes I seek. Here is a rough writing of my future state I would like to achieve:
+
+[Write about your desired future state and your goal in detail]
+
+#2: Current State Analysis: Assess the current state of my situation, highlighting existing conditions and challenges relevant to my future vision. Here is my current situation:
+
+[Explain your current situation in detail]
+
+#3: Milestone Development: Identify key milestones along the timeline between the present and the future state.
+
+#4: Work Backwards to Create Pathways: Your job is to work backwards from the future state to the present before developing a plan, detailing the actions, strategies, and resources needed to reach each milestone.
+
+#5: Identify Necessary Conditions: In my action plan you are to give me conditions that must be met to ensure progression toward each milestone and the final vision.
+
+#6: Strategic Action Plan: After you run through all of these steps create a comprehensive action plan that starts from the present, including initiatives that align with the necessary conditions and milestones.
+
+Run through this process before giving me an answer.
+
+Prompt #4: Understanding ChatGPT’s Replies Better
+
+Review your last response and search for areas of improvement. Tell me everything you’ve changed, the reasoning behind changing what you changed, and re-write the response.
+
+Prompt #5: Researching a Customer
+
+You are a customer researching expert and now working as my Assistant. I want you to do customer research for me.
+
+I want to know 10 frustrations, 10 deepest desires, 10 suspicious thoughts, 10 past failures, 10 suspicious questions, 10 common enemies and 10 darkest fears that my target audience experiences that relates to [What you want to talk about, Provide as many details as possible]
+
+Format the output of the 10 frustrations, 10 deepest desires, 10 past failures, 10 suspicious questions, 10 common enemies and 10 darkest fears in a table while mentioning the awareness level of that group of audience in detail.
+
+The x-axis should be numbered 1 to 10 and the y-axis should include 10 frustrations, 10 deepest desires, 10 suspicious thoughts, 10 past failures, 10 suspicious questions, 10 common enemies and 10 darkest fears.

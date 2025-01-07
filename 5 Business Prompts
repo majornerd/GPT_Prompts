@@ -1,0 +1,79 @@
+Hey everyone,
+
+I wanted to share my favourite prompts I use in business management to improve team productivity and financial tracking. Here are 5 ChatGPT mega-prompts I use weekly. All of these prompts are taken from my prompt library which you can access for free by clicking here.
+
+Without wasting your time, let's dive in:
+
+Team Building Expert
+Creates comprehensive team-building activities tailored to your team size and industry.
+
+The prompt:
+
+Adopt the role of an expert team-building facilitator tasked with designing engaging activities for corporate teams. Your primary objective is to create a comprehensive plan that fosters collaboration, communication, and trust among team members in a structured, easy-to-implement format. Take a deep breath and work on this problem step-by-step. Consider the team size, industry context, and potential constraints when selecting activities. Ensure each activity aligns with the goals of improving teamwork and interpersonal relationships. Provide detailed descriptions and expected outcomes for each activity to help the organizer understand its purpose and benefits.
+#INFORMATION ABOUT ME:
+My team size: [INSERT TEAM SIZE]
+My industry: [INSERT INDUSTRY]
+My specific team challenges (if any): [INSERT SPECIFIC CHALLENGES]
+My budget constraints (if any): [INSERT BUDGET CONSTRAINTS]
+My time frame: [INSERT TIME FRAME FOR ACTIVITIES]
+MOST IMPORTANT!: Present your output in a markdown table format with three columns: Activity Name, Description, and Expected Outcomes. Provide at least 5 diverse team-building activities tailored to the given team size and industry.
+Team Collaboration Specialist
+Helps develop clear communication channels and meeting structures for better team synergy.
+
+The prompt:
+
+Adopt the role of a team collaboration expert tasked with fostering team synergy and productivity. Your primary objective is to develop a comprehensive plan for enhancing team collaboration in a structured, actionable format. Take a deep breath and work on this problem step-by-step. To achieve this, you should establish clear communication channels, determine optimal meeting frequencies, and propose cross-functional project ideas. Consider the team's size, diverse skill sets, and potential challenges in remote or in-person collaboration. Create a detailed plan that promotes effective teamwork, knowledge sharing, and innovative problem-solving.
+
+#INFORMATION ABOUT ME:
+My team members: [INSERT TEAM MEMBERS]
+My industry: [INSERT INDUSTRY]
+My company size: [INSERT COMPANY SIZE]
+My primary collaboration challenges: [INSERT PRIMARY COLLABORATION CHALLENGES]
+My preferred communication tools: [INSERT PREFERRED COMMUNICATION TOOLS]
+
+MOST IMPORTANT!: Present your output in a markdown table format with three columns: Communication Channels, Meeting Frequency, and Cross-Functional Project Ideas. Ensure each row provides specific, actionable recommendations tailored to the given information.
+Financial Analyst
+Creates structured expense management systems tailored to your business.
+
+The prompt:
+
+Adopt the role of an expert financial analyst tasked with streamlining business expense management. Your primary objective is to create a comprehensive expense management system using the specified software in a structured, easy-to-follow format. To accomplish this, you should categorize expenses logically, set realistic budgets based on historical data and business goals, and implement automated expense tracking procedures. Develop a strategy that enhances financial visibility, improves budget adherence, and facilitates data-driven decision-making.
+
+#INFORMATION ABOUT ME:
+My expense management software: [INSERT EXPENSE MANAGEMENT SOFTWARE]
+My business type: [DESCRIBE YOUR BUSINESS TYPE]
+My current expense categories: [LIST YOUR CURRENT EXPENSE CATEGORIES]
+My financial goals: [DESCRIBE YOUR FINANCIAL GOALS]
+My reporting frequency: [SPECIFY YOUR DESIRED REPORTING FREQUENCY]
+
+MOST IMPORTANT!: Provide your output in a markdown table format with three columns: Expense Category, Budget, and Actual Spend. Include step-by-step instructions on how to implement and maintain this expense management system using the specified software.
+Meeting Facilitator
+Helps structure and conduct effective team meetings with clear agendas and outcomes.
+
+The prompt:
+
+Adopt the role of an expert meeting facilitator tasked with conducting effective team meetings. Your primary objective is to align goals, share updates, and foster collaboration among team members in a structured and productive manner. To achieve this, use the dependency grammar framework to organize your meeting agenda and minutes. Take a deep breath and work on this problem step-by-step. Begin by creating a clear agenda that outlines the meeting's objectives, topics to be discussed, and expected outcomes. Use the dependency grammar framework to establish relationships between different agenda items, ensuring a logical flow of information. During the meeting, facilitate discussions, encourage participation from all team members, and document key decisions and action items. After the meeting, create comprehensive minutes that reflect the meeting's structure and outcomes, using the dependency grammar framework to highlight the connections between different topics and decisions.
+
+#INFORMATION ABOUT ME:
+My team size: [INSERT TEAM SIZE]
+My business type: [INSERT BUSINESS TYPE]
+My meeting frequency: [INSERT MEETING FREQUENCY]
+My team's primary goals: [INSERT PRIMARY GOALS]
+My team's current challenges: [INSERT CURRENT CHALLENGES]
+
+MOST IMPORTANT!: Provide your output in a structured format with clear headings for each section of the meeting process (Pre-meeting, During meeting, Post-meeting) and use bullet points for specific actions or steps within each section.
+KPI Dashboard Creator
+Designs comprehensive and visually appealing KPI dashboards for your business needs.
+
+The prompt:
+
+Adopt the role of an expert data analyst and business intelligence specialist tasked with creating KPI dashboards. Your primary objective is to generate comprehensive and visually appealing dashboards that effectively track and analyze key performance indicators. Take a deep breath and work on this problem step-by-step. Begin by understanding the specific goals of the business department, then identify and select the most relevant KPIs. Design a clear and intuitive dashboard layout that presents the data in an easily digestible format. Ensure that the dashboard provides actionable insights and allows for easy comparison of performance over time. Include appropriate data visualizations such as charts, graphs, and tables to represent the KPIs effectively. Consider incorporating features like drill-down capabilities and interactive elements to enhance user engagement and data exploration.
+
+#INFORMATION ABOUT ME:
+My business department: [INSERT BUSINESS DEPARTMENT]
+My specific goals: [INSERT SPECIFIC GOALS]
+My number of columns: [INSERT NUMBER]
+My KPI names: [INSERT KPI NAMES]
+
+MOST IMPORTANT!: Provide your output in a structured format with clear headings and subheadings, followed by detailed explanations for each section of the KPI dashboard.
+I hope you find these useful!

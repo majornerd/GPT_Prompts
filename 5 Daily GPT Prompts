@@ -1,0 +1,80 @@
+#1: Research Topics
+Prompts:
+
+I am Researching [insert your broad topic, e.g., global warming] for [Use Case e.g., YouTube Video Script]. Suggest 15 specific research topics I should include in my Research Process.
+
+I am writing a [whatever you’re writing for e.g., YouTube Explainer Video Script] about the difference between [idea 1] and [idea 2]. Formulate five potential research questions I can use to compare and contrast these concepts.
+
+I am currently exploring [the topic]. Suggest the existing opposing viewpoints on the issue.
+
+I need data and statistics on [aspect of the topic] to answer [your research question]. Can you suggest reliable sources to find this information?
+
+I am interested in the [research topic]. Suggest appropriate [websites/databases/journals] where I can find all the needed Information on this topic.
+
+#2: Brainstorming New Ideas
+Prompt:
+
+You are an expert content strategist and keyword researcher. Your task is to create a comprehensive topical map based on the provided main topic. This map should be broken down into sub-topics and further into specific ideas, ensuring that all aspects of the main topic are covered.
+
+The topical map should be detailed, organized, and easy to follow. The goal is to help create content that thoroughly addresses the chosen topic from various angles. This topical map will be used to guide the creation of content that is well-structured, authoritative, and optimized for search engines. The map should include [number] sub-topics, each with [number] specific ideas or related keywords. Input Example:
+
+Main Topic: [Insert Main Topic Here]
+Number of Sub-Topics: [Insert Number of Sub-Topics Here]
+Number of Specific Ideas per Sub-Topic: [Insert Number Here] Desired Output:
+Main Topic: [Insert Main Topic Here]
+
+Sub-Topic 1:
+
+Specific Idea 1
+Specific Idea 2
+Specific Idea 3
+[Continue based on the number provided]
+Sub-Topic 2:
+
+Specific Idea 1
+Specific Idea 2
+Specific Idea 3
+[Continue based on the number provided]
+[Continue for each Sub-Topic] Ensure that each sub-topic and specific idea is relevant to the main topic and covers different aspects or angles to create a well-rounded, comprehensive topical map. Each specific idea should be concise but descriptive enough to guide the creation of detailed content. [ask the user for the main topic and any other important questions]
+
+Note: Copy and Paste it into Chat GPT. It will ask you some questions, answer them and it will give you the Intended Results
+
+Once you find an Idea that you like, you can use this Prompt Next.
+
+Let’s use the Six Thinking Hats technique for my content idea on [topic]. Can you help me look at it from a positive, negative, emotional, creative, factual and process perspective?
+
+#3: Analyzing your Competitors
+Prompt:
+
+Act as an SEO expert, a Master Content Strategist/Analyzer, Potential Information Gap Finder, analyze these articles in detail for me. For the Keyword [Paste your Keyword], these are the top [5/10] Articles Ranking on Google at this Moment [Links]
+
+Here is what I want.
+
+Times the main keyword was used in each article,
+Tone of Writing,
+5–10 Questions each Article answers
+5–10 Missing Elements in each Article
+5–8 pain points each of the articles is solving?
+5 Questions that people still have after reading the Article?
+At last based on the above information, Give me Detailed Actionable Tips for every single small detail to Outrank all of them.
+
+#4: Planning your Entire Project in Detail
+Prompt:
+
+You are an expert Project Planner. I want you to create a detailed day by day project plan for my upcoming project [type of project] that will help me stay organized and on track. I also need you to setup KPIs to track the progress (daily, weekly and monthly) for tracking progress to ensure deadlines are met and expectations are exceeded. But before you create the full plan for my project, I want you to ask me all the missing information that I didn’t provide that will help you better understand my needs and give me the specific output I want.
+
+#5: Repurposing Video Content to Articles
+Prompt:
+
+Create a comprehensive blog post outline for a How-To Guide on [topic]. The outline should follow the structure provided in the How-To Guide Template, ensuring a well-organized and informative article. You are an experienced content strategist tasked with creating an engaging and informative How-To Guide blog post outline. Your outline will serve as a blueprint for writers to create high-quality, SEO-optimized content that addresses the reader’s needs and provides clear, actionable instructions.
+
+Instructions:
+
+Use the following structure to create the blog post outline: H1: How To [do a specific thing] without [undesirable side effect] OR H1: # Ways to [do a specific thing] OR H1: How to [do a specific thing]
+H2: What is [specific thing you will talk about]? H3: Reasons You Need to Know [specific thing you’re teaching] H2: Step-by-Step Instructions to [do a specific thing] H3: [Step 1] H3: [Step 2] H3: [Step 3] H2: Key Considerations For Successfully [doing the thing you just taught] H3: Taking it to the Next Level: How to [go beyond the thing you just taught] H3: Alternatives to [thing you just taught] H2: Wrapping Up and My Experience With [topic activity]
+
+Provide brief descriptions or key points for each section to guide the writer.
+Ensure the outline is in plain, simple language, while covering all aspects of the topic.
+Include relevant subheadings to improve readability, flow, and SEO.
+Make sure each of the headings are bold
+[Ask the user for information and/or relevant context]

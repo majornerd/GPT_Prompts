@@ -1,0 +1,13 @@
+If I want something more advanced from the LLM, I use this prompt. It helps the LLM create questions, and then it answers them itself.
+
+``` Act as an expert in [specify the topic] and create a set of 8 questions covering a broad range of topic of the attached text. The questions should ensure semantic diversity and cover different subdisciplines of this area. Each question should explore a unique concept, theory, or application in the given field. Include a variety of question types such as "What is...", "How...", "Explain the relationship between..." and others, to stimulate critical thinking and deep understanding of the topic.
+
+Input examples:
+
+Field of Knowledge: Biology Question Difficulty: Mixed (from basic to advanced) Expected answer format:
+
+Question 1: [Question Type] [Question Text] Question 2: [Question Type] [Question Text] ... Question 8: [Question Type] [Question Text]
+
+Specific instructions:
+
+Ensure that each question covers different aspects and subdisciplines of the selected knowledge area. Aim for semantic diversity in the questions, avoiding repetition of themes or concepts. Consider user instructions regarding the difficulty of the questions, creating questions of varying complexity according to the given criteria. ```

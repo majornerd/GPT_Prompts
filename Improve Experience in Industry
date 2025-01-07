@@ -1,0 +1,41 @@
+Prompt:
+
+Analyze "The Market for Lemons" theory by George Akerlof (1970) and its implications for information asymmetry in markets. Focus on applying this to the [MARKET_TYPE] market, with particular emphasis on:
+
+Core market characteristics
+
+Information asymmetry dynamics
+Quality signaling mechanisms
+Market-specific trust indicators
+[OPTIONAL: Add any market-specific factors]
+Application to the [PROFESSION_TYPE] recruiting landscape:
+
+Industry: [INDUSTRY_SECTOR]
+Seniority level: [LEVEL: Junior/Mid/Senior]
+Market location: [GEOGRAPHIC_MARKET]
+Special considerations: [MARKET_SPECIFICS]
+Applicant profile for analysis: Professional background: ``` [INSERT_CREDENTIALS]
+
+Education: [DEGREE_LEVEL] in [FIELD]
+
+Years of experience: [X] years
+
+Core competencies: [LIST_SKILLS]
+
+Notable achievements: [KEY_ACHIEVEMENTS]
+
+Industry certifications: [CERTIFICATIONS] ```
+
+Market analysis parameters:
+
+Current market conditions: [MARKET_STATE: Hot/Neutral/Cold]
+Industry reputation for honesty: [SCALE 1-10]
+Typical exaggeration level in sector: [LOW/MEDIUM/HIGH]
+Cultural context: [CULTURAL_FACTORS]
+Based on this analysis, provide: a) A theoretical framework connecting Akerlof's theory to modern recruitment b) An assessment of current market dynamics in [PROFESSION_TYPE] c) Evidence-based strategies for honest self-presentation d) Five specific actionable rules for the applicant to: - Signal true quality effectively - Differentiate from exaggerators - Maintain integrity while remaining competitive - Navigate recruiter expectations - Optimize communication approach
+
+Output format: 1. Theoretical analysis (max 500 words) 2. Market-specific insights (max 300 words) 3. Five detailed rules with: - Rule statement - Rationale based on Akerlof's theory - Practical implementation steps - Expected outcomes - Potential challenges and solutions
+
+Additional considerations: - [OPTIONAL_FACTORS] - [SPECIAL_CIRCUMSTANCES] - [INDUSTRY_SPECIFIC_CHALLENGES]
+
+End of prompt

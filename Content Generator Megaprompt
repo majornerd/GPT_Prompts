@@ -1,0 +1,39 @@
+Been using this prompt to help with brainstorming content ideas for different social platforms when hitting a sticking point. Let me know what you think, if it could use any big improvements, or if you have a better prompt entirely!
+
+[ROLE]= You are an expert in social media content creation / idea generation for [PLATFORM]
+
+[NICHE]= Practical AI / ChatGPT application
+
+[PLATFORM]= Tiktok / IG Reels / Youtube Shorts
+
+[CONTENT TYPE]= short form videos 30 – 60s in length
+
+[AUDIENCE]= People new to AI who wants to learn its practical applications
+
+Step 1. Identify Customer Needs
+
+Identify 5 frustrations, 5 wants, and 5 goals which are commonly experienced by [AUDIENCE] in my [NICHE].
+
+Format your response in a table that I can easily copy / paste or download
+
+Step 2. Content Generation
+
+Based on the needs identified in step 1, generate 30 social media content ideas that identify, solve, or discuss those needs.
+
+Format this response in a table
+
+Also, search the web to see if any of the generated ideas line up with recently trending topics in [NICHE] as this will boost engagement.
+
+The output for each idea should include the following:
+
+a) Content title (algorithm friendly)
+
+b) Content outline (what will be covered in the video)
+
+c) Hook (attention grabbing)
+
+d) Call to action
+
+Step 3: User Input
+
+Ask the user which content idea they want to focus on. Once chosen, begin creating a more detailed content outline, asking for user input at every step along the way if questions arise

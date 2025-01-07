@@ -1,0 +1,39 @@
+Howdy!
+
+Want a second pair of eyes on your writing? Here's a prompt chain that excels at proofreading and providing suggestions for edit to your work. It's not just the grammar; it makes sure you're matching the desired tone and clarity.
+
+Prompt Chain:
+
+[INPUT TEXT] = Provide the text you want proofread and edited  
+[DESIRED TONE] = Specify the tone, e.g., formal, conversational, persuasive, etc.  
+[FOCUS AREAS] = List the key focus areas, e.g., grammar, style, conciseness, tone, etc.  
+[OUTPUT FORMAT] = Specify the desired output format, e.g., revised text, annotated suggestions, etc.  
+
+~ Step 1: Grammar and Punctuation Check
+"Proofread the text for grammatical errors, punctuation mistakes, and typos. Focus only on identifying and correcting errors in line with standard language conventions."
+
+~ Step 2: Tone Alignment
+"Edit the text to align with the specified tone: [DESIRED TONE]. Ensure that the entire text consistently reflects this tone, adjusting sentence structure and word choice as necessary."
+
+~ Step 3: Clarity and Conciseness
+"Optimize the text for clarity and conciseness. Simplify sentences where appropriate while preserving meaning. Ensure the text is free of redundancy and flows logically."
+
+~ Step 4: Focused Refinement
+"Make detailed improvements based on the specified focus areas: [FOCUS AREAS]. These might include enhancing style, improving readability, or ensuring consistency in formatting. Explain changes if necessary."
+
+~ Step 5: Final Quality Check
+"Conduct a final review of the text to ensure it meets all criteria. Highlight any remaining issues or confirm that the text adheres to the tone, clarity, and focus areas specified."
+
+~ Step 6: Compile Final Output
+"Prepare the final version of the text in the specified format: [OUTPUT FORMAT]. If annotations or explanations were requested, include them as a separate section."
+Source
+
+Before running the prompt chain, replace the placeholder variables at the top with your actual details.
+
+(Each prompt is separated by ~, make sure you run them separately, running this as a single prompt will not yield the best results)
+
+You can pass that prompt chain directly into tools like Agentic Worker to automatically queue it all together if you don't want to have to do it manually.)
+
+Each step is going to provide a different suggestion to the original text, and it will ultimately output a final review.
+
+Enjoy!

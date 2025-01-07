@@ -1,0 +1,13 @@
+Struggling to compare your competitors and gauge your market position effectively? This prompt chain is designed to help you identify, analyze, and compare competitors through a comprehensive SWOT analysis. It walks you through listing your competitors, pinpointing their strengths, weaknesses, opportunities, and threats, and then compiles a side-by-side comparison to give you clear insights into the overall industry landscape. Best used with SearchGPT.
+
+Prompt:
+
+[[COMPETITORS]={List of Top Competitors}
+~Identify the strengths of each competitor: "For each competitor in [COMPETITORS], outline their key strengths, including resources, capabilities, and market position."
+~Identify the weaknesses of each competitor: "For each competitor in [COMPETITORS], outline their key weaknesses, including areas where they lack resources or face challenges."
+~Identify the opportunities for each competitor: "Analyze the market and identify potential opportunities for each competitor in [COMPETITORS], including emerging trends and market needs."
+~Identify the threats for each competitor: "Evaluate the external environment and list the threats facing each competitor in [COMPETITORS], such as market competition and regulatory changes."
+~Create a side-by-side SWOT matrix: "Compile the strengths, weaknesses, opportunities, and threats for each competitor into a side-by-side matrix format for easy comparison."
+~Analyze the overall industry landscape: "Based on the compiled SWOT analysis, summarize the key insights regarding threats and opportunities present in the industry as a whole."
+~Review and refine: "Assess the SWOT analysis for any missing information or areas for improvement. Suggest any additional considerations or data needed to strengthen the analysis."]
+Make sure you update the variable in the first prompt: COMPETITORS

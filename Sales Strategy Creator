@@ -1,0 +1,13 @@
+This prompt chain is designed to guide you through the process of evaluating your business's performance, setting sales targets, identifying key performance indicators (KPIs), and ultimately compiling everything into a comprehensive sales strategy document.
+
+Prompt:
+
+[BUSINESS NAME]=[Business Name], [ANNUAL REVENUE]=[Projected Annual Revenue], [PREVIOUS YEARS REVENUE]=[Last Year's Revenue], [GROWTH RATE]=[Desired Growth Rate (%)]
+Evaluate the current performance of [BUSINESS NAME] by analyzing last year's revenue: 'Analyze the previous year's revenue of [PREVIOUS YEARS REVENUE] and assess the factors that contributed to this figure.'~
+Set an annual sales target based on desired growth: 'Calculate the annual sales target for [BUSINESS NAME] based on a projected growth rate of [GROWTH RATE]%. The target should reflect the goal of reaching [ANNUAL REVENUE].'~
+Identify key performance indicators (KPIs): 'List 5-7 KPIs relevant to measuring sales performance for [BUSINESS NAME]. These should include metrics like conversion rates, average deal size, and customer acquisition cost.'~
+Define specific actions to achieve sales targets: 'For each KPI identified, describe 2-3 specific actions that can be taken to improve performance in that area. Focus on realistic, measurable initiatives.'~
+Create a timeline for evaluation: 'Develop a quarterly review timeline to assess progress against the sales targets and KPIs. Outline what will be reviewed and who will be responsible.'~
+Compile all details into a comprehensive sales strategy document: 'Create a structured sales strategy document that includes the annual sales target, KPIs, specific actions, and evaluation timeline for [BUSINESS NAME]. Ensure it is clear and concise.'~
+Review and refine the sales strategy: 'Evaluate the sales strategy document for clarity, coherence, and feasibility. Make any necessary adjustments to ensure it aligns with the overall goals of [BUSINESS NAME].'
+Make sure you update the variables in the first prompt: [Business Name], [Projected Annual Revenue], [Last Year's Revenue], [Desired Growth Rate (%)].
